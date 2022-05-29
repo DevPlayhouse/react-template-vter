@@ -3,7 +3,7 @@
   "description": "Template project using React, Vite, Eslint and Tailwind CSS",
   "version": "0.0.1",
   "scripts": {
-    "start": "vite",
+    "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
   },
